@@ -2,4 +2,3 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to learn more about web development (JavaScript, Web development frameworks)
-- 📫 How to reach me : loelia.coutellier@gmail.com
