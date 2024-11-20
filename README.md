@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @widfleer
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Docker
+- 🌱 I want to learn Docker
 - 💞️ I’m looking to learn more about web development (JavaScript, Web development frameworks)
